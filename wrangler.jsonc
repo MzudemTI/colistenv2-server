@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
 
-  "name": "colisten-serverv4",
+  "name": "colisten-serverv3",
 
   "main": "worker.js",
 
