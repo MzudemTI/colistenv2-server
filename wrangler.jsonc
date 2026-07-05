@@ -1,6 +1,10 @@
 {
+  "$schema": "node_modules/wrangler/config-schema.json",
+
   "name": "colisten-server",
+
   "main": "worker.js",
+
   "compatibility_date": "2026-07-05",
 
   "durable_objects": {
